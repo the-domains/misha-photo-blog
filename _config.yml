@@ -1,7 +1,7 @@
 name: Misha Photo Blog
 favicon: null
-layout_spectrum: 0.7639747736975551
-typography_spectrum: 0.30590067780576646
+layout_spectrum: 0.50033
+typography_spectrum: 0.27231
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.4599629759322852
-  lightness: 0.17985535319894552
+    - '#f3fffb'
+    - '#221f22'
+    - '#b0b8be'
+    - '#a46661'
+    - '#8d3946'
+  brandStrength: 0.5
+  lightness: 0.75
   saturation: 0.9184550510253757
   rhythmicContrast: 0.5546312141232193
 purpose: []
