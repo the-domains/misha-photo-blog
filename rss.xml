@@ -4,8 +4,15 @@
         <description><![CDATA[Misha Photo Blog]]></description>
         <link>https://thegrid.ai/misha-photo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 19:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 19:49:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/misha-photo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01baa9af-eb94-4b81-b7aa-238b9e6b5031.jpg">]]></description>
+            <link>https://thegrid.ai/misha-photo-blog/the-crayon-is-mightier-than-the-sword/index.html</link>
+            <guid isPermaLink="false">03f41ea4-e474-45f1-95c0-e64f27d26ce3</guid>
+            <pubDate>Mon, 14 Mar 2016 19:49:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f071d953516a34403444aa52aa9262ab/passthrough.jpg?height=500&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2ca962df6f4d68dbd100beb1c7066a0f5efb2341.jpg&width=750">]]></description>
