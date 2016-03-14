@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Misha Photo Blog]]></title>
+        <description><![CDATA[Misha Photo Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 19:49:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Today's mood summarized below :)</p>]]></description>
+            <link>undefinedtodays-mood-summarized-below/index.html</link>
+            <guid isPermaLink="false">27d7cb69-7841-41ce-917f-4b5bc33902e2</guid>
+            <pubDate>Mon, 14 Mar 2016 19:49:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
